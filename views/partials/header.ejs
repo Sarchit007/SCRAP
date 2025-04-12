@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrap</title>
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet"/>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+
+<% if(nav==false){ %>
+  <nav class="w-full px-10 py-4 flex justify-between items-center bg-zinc-900 text-white shadow-md">
+    <h3 class="text-3xl font-bold tracking-wide">Scrap</h3>
+
+    <div class="flex gap-8 items-center">
+      <a href="/profile" class="text-lg font-medium hover:text-gray-300 transition-all duration-300">Profile</a>
+      <a href="/feed" class="text-lg font-medium hover:text-gray-300 transition-all duration-300">Feed</a>
+      <a href="/logout" class="px-4 py-2 rounded-lg bg-red-700 hover:bg-red-600 transition-all duration-300 text-white font-semibold shadow-md">
+        Logout
+      </a>
+    </div>
+  </nav>
+<% } %>
+
+

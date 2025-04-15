@@ -36,8 +36,6 @@ A dynamic web application built with **Node.js**, **Express.js**, **EJS**, and *
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/your-username/resume-web-app.git
 cd resume-web-app
 
@@ -51,7 +49,7 @@ MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_secret_key
 SESSION_SECRET=your_session_secret
 
-4. Start the App
+### 4. Start the App
 npm start
 Then open http://localhost:3000 in your browser.
 

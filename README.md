@@ -51,11 +51,14 @@ SESSION_SECRET=your_session_secret
 
 ### 4. Start the App
 npm start
-Then open http://localhost:3000 in your browser.
+**Then open http://localhost:3000 in your browser.**
 
 📸 Preview:-
+![Screenshot 2025-04-15 173523](https://github.com/user-attachments/assets/e1961954-f9b2-4f5f-9b95-209b269642d7)
+![Screenshot 2025-04-15 173546](https://github.com/user-attachments/assets/4158d336-69e0-4ed0-8ee0-a563ff67b6ec)
 ![Screenshot 2025-04-15 174440](https://github.com/user-attachments/assets/e5bb6669-77e9-4f58-9e84-814e91df0bef)
 ![Screenshot 2025-04-15 174152](https://github.com/user-attachments/assets/41eae1f0-a467-4756-81eb-a65c16ff19de)
 ![Screenshot 2025-04-15 174017](https://github.com/user-attachments/assets/1f68dbce-7717-49aa-9ba7-055ede7481f9)
-![Screenshot 2025-04-15 173523](https://github.com/user-attachments/assets/e1961954-f9b2-4f5f-9b95-209b269642d7)
+
+
 

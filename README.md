@@ -29,7 +29,7 @@ A dynamic web application built with **Node.js**, **Express.js**, **EJS**, and *
 - **Templating Engine:** EJS  
 - **Database:** MongoDB  
 - **Authentication:** JWT, Sessions  
-- **File Uploads:** Multer (or specify tool if different)
+- **File Uploads:** Multer 
 
 ---
 
